@@ -1,0 +1,7 @@
+{
+  "filename": "Harry Potter and the Sorcerer.txt",
+  "words": ["Harry", "Ron", "Hermione"],
+  "example minimum length": 20,
+  "example maximum length": 200,
+  "number of examples": 5
+}
